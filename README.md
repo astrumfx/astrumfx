@@ -1,6 +1,6 @@
 <p align="center">
 <br></br><br></br><br></br>
-<img width="88" src="https://komarev.com/ghpvc/?username=astrumfx&label=cassettes&color=A477BD">
+<img width="95" src="https://komarev.com/ghpvc/?username=astrumfx&label=cassettes&color=A477BD">
 <br></br>
 <br></br>
 ︶⊹︶︶୨୧︶︶⊹︶
@@ -11,7 +11,7 @@
 <p align="center">
   𖹭
 <div align="center">
-  <h5><a href="https://0astrumfx0.straw.page/">strawpage</a> $\small{\textsf{ }}$ $\small{\textsf{ }}$ $\small{\textsf{ }}$ $\small{\textsf{ }}$ <a href="https://en.pronouns.page/@astrumfx">prns page</a></h5>
+  <h4><a href="https://0astrumfx0.straw.page/">strawpage</a> $\small{\textsf{ }}$ $\small{\textsf{ }}$ $\small{\textsf{ }}$ $\small{\textsf{ }}$ <a href="https://en.pronouns.page/@astrumfx">prns page</a></h4>
 </div>
 <br></br><p align="center">
     ⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂ ⠂⠄⠄⠂☆
